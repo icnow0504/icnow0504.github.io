@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Fredholm二择一定理(矩阵语言)</title>
+      <link href="/2024/04/21/post2/"/>
+      <url>/2024/04/21/post2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>Fredholm定理是泛函分析中的一个定理，本文给出的是用矩阵语言表述的阉割版。<br><div class="row">    <embed src="/post2/post2.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 高等代数 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于一道高等代数习题的解答</title>
       <link href="/2024/04/17/post1/"/>
       <url>/2024/04/17/post1/</url>
