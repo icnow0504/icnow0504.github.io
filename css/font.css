@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4509757 */
-  src: url('//at.alicdn.com/t/c/font_4509757_d9eikghjjag.woff2?t=1713352688982') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4509757_d9eikghjjag.woff?t=1713352688982') format('woff'),
-       url('//at.alicdn.com/t/c/font_4509757_d9eikghjjag.ttf?t=1713352688982') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_4509757_51fsjb0oieq.woff2?t=1714649534578') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4509757_51fsjb0oieq.woff?t=1714649534578') format('woff'),
+       url('//at.alicdn.com/t/c/font_4509757_51fsjb0oieq.ttf?t=1714649534578') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-heartbeat:before {
+  content: "\e600";
 }
 
 .icon-biaoqian1:before {
@@ -147,4 +151,12 @@
 
 .icon-gengduofenlei:before {
   content: "\101aa";
+}
+
+.icon-youxiang:before {
+  content: "\e908";
+}
+
+.icon-GitHub:before {
+  content: "\ea0a";
 }
